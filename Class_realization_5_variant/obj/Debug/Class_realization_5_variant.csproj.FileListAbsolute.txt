@@ -1,0 +1,14 @@
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Class_realization_5_variant\Class_realization_5_variant\bin\Debug\Class_realization_5_variant.exe.config
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Class_realization_5_variant\Class_realization_5_variant\bin\Debug\Class_realization_5_variant.exe
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Class_realization_5_variant\Class_realization_5_variant\bin\Debug\Class_realization_5_variant.pdb
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Class_realization_5_variant\Class_realization_5_variant\obj\Debug\Class_realization_5_variant.csprojResolveAssemblyReference.cache
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Class_realization_5_variant\Class_realization_5_variant\obj\Debug\Class_realization_5_variant.csproj.CoreCompileInputs.cache
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Class_realization_5_variant\Class_realization_5_variant\obj\Debug\Class_realization_5_variant.exe
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Class_realization_5_variant\Class_realization_5_variant\obj\Debug\Class_realization_5_variant.pdb
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Recovery of work\Class_realization_5_variant\Class_realization_5_variant\bin\Debug\Class_realization_5_variant.exe.config
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Recovery of work\Class_realization_5_variant\Class_realization_5_variant\bin\Debug\Class_realization_5_variant.exe
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Recovery of work\Class_realization_5_variant\Class_realization_5_variant\bin\Debug\Class_realization_5_variant.pdb
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Recovery of work\Class_realization_5_variant\Class_realization_5_variant\obj\Debug\Class_realization_5_variant.csprojResolveAssemblyReference.cache
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Recovery of work\Class_realization_5_variant\Class_realization_5_variant\obj\Debug\Class_realization_5_variant.csproj.CoreCompileInputs.cache
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Recovery of work\Class_realization_5_variant\Class_realization_5_variant\obj\Debug\Class_realization_5_variant.exe
+E:\3 курс\Учебная практика по программированию\1 день\Работа\Recovery of work\Class_realization_5_variant\Class_realization_5_variant\obj\Debug\Class_realization_5_variant.pdb
